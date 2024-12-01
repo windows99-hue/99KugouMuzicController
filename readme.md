@@ -1,12 +1,12 @@
 # 99酷狗音乐遥控器
 
-### [English Version]("E:\99之没事写的小程序\homepod\控制电脑\01-github\99KugouMuzicController\readme-eng.md")
+### [English Version]("https://github.com/windows99-hue/99KugouMuzicController/blob/main/readme-eng.md")
 
 #### 本程序可以让您在手机、平板甚至homepod等其他终端上方便的控制电脑端的酷狗音乐，让其可以进行暂停\播放\听歌识曲等功能
 
 ## 演示视频
 
-<video src="E:\99之没事写的小程序\homepod\控制电脑\01-github\99KugouMuzicController\video.mp4"></video>
+<video src="https://github.com/windows99-hue/99KugouMuzicController/raw/refs/heads/main/video.mp4"></video>
 
 ## 部署
 
