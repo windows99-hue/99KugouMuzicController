@@ -80,7 +80,7 @@ start "" pythonw -u "<your path of main.py>"
 2. 在`快捷键设置`中勾选`启用全局快捷键`
 3. 按照图片修改快捷键
 
-![热键设置](E:\99之没事写的小程序\homepod\控制电脑\01-github\99KugouMuzicController\hotkey.png)
+![热键设置](https://raw.githubusercontent.com/windows99-hue/99KugouMuzicController/refs/heads/main/hotkey.png)
 
 如果我设置的快捷键与您的冲突，您可以更改`main.py`中第43~第87行的所有快捷键，例如：
 
