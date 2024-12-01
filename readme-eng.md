@@ -1,12 +1,12 @@
 # 99 Kugou Music Remote Controller
 
-### [中文版本]("E:\99之没事写的小程序\homepod\控制电脑\01-github\99KugouMuzicController\readme.md")
+### [中文版本](https://github.com/windows99-hue/99KugouMuzicController/blob/main/readme.md)
 
 #### This program allows you to conveniently control Kugou Music on your PC from your phone, tablet, or even HomePod, enabling functions such as pause, play, and song recognition.
 
 ## Demo Video
 
-<video controls> <source src="video.mp4" type="video/mp4"> Your browser does not support the video tag. </video> *(Note: The video source path in the original Markdown is specific to the local filesystem and won't work here. The placeholder above represents where the video should be embedded.)*
+[Video](https://github.com/windows99-hue/99KugouMuzicController/blob/main/video.mp4)
 
 ## Deployment
 
