@@ -64,7 +64,7 @@
    - Enable global hotkeys in `Hotkey Settings`.
    - Modify the hotkeys according to the image provided.
 
-   <img src="hotkey.png" />
+   ![Hotkey Settings](https://raw.githubusercontent.com/windows99-hue/99KugouMuzicController/refs/heads/main/hotkey.png)
 
    If my set hotkeys conflict with yours, you can change them in lines 43-87 of `main.py`, for example:
 
