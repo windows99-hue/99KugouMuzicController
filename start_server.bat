@@ -1,0 +1,1 @@
+start "" pythonw -u "<your path of main.py>"
