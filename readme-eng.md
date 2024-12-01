@@ -4,6 +4,8 @@
 
 #### This program allows you to conveniently control Kugou Music on your PC from your phone, tablet, or even HomePod, enabling functions such as pause, play, and song recognition.
 
+## Attention: It is recommended to run this program only on the local area network
+
 ## Demo Video
 
 [Video](https://github.com/windows99-hue/99KugouMuzicController/blob/main/video.mp4)

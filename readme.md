@@ -4,6 +4,8 @@
 
 #### 本程序可以让您在手机、平板甚至homepod等其他终端上方便的控制电脑端的酷狗音乐，让其可以进行暂停\播放\听歌识曲等功能
 
+## 注意：建议只在局域网运行此程序
+
 ## 演示视频
 
 [Video](https://github.com/windows99-hue/99KugouMuzicController/blob/main/video.mp4)
