@@ -6,7 +6,7 @@
 
 ## 演示视频
 
-<video src="https://github.com/windows99-hue/99KugouMuzicController/raw/refs/heads/main/video.mp4"></video>
+[Video](https://github.com/windows99-hue/99KugouMuzicController/blob/main/video.mp4)
 
 ## 部署
 
