@@ -42,7 +42,7 @@ def asking():
     if t:
         if t == "kugou":
             if q == "startheapp":
-                os.system("start \"\" D:\LenovoSoftstore\Install\kugouyinle\KuGou.exe")
+                os.system("start \"\" <your path of Kugou Music>")
             elif(q == "stoporstart"):
                 hk("alt", "n")
 
