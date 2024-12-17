@@ -18,13 +18,13 @@
 
 1. **Download the repository and install required libraries**:
 
-   ```bash
-   pip install -r requirement.txt
-   ```
+```bash
+pip install -r requirement.txt
+```
 
 2. **Modify the program**:
 
-   - Change the path in line 8 of `main.py`
+  Change the path in line 8 of `main.py`
 
      ```python
      with open(r"your_desired_path\flask_app.log", "w") as f:
@@ -32,7 +32,7 @@
 
      Replace `your_desired_path` with your preferred path. The `flask_app.log` file stores the log of the Flask server. Since this program runs in `pythonw`, all console output is redirected to `flask_app.log`. This file is cleared each time the program is restarted.
 
-   - Change the path in line 45 of `main.py`
+  Change the path in line 45 of `main.py`
 
      ```python
      os.system("start \"\" \"<your path of Kugou Music>\"")
@@ -40,7 +40,7 @@
 
      Replace `<your path of Kugou Music>` with the path to your `Kugou.exe`. Note: If there are spaces in the path, use the template provided.
 
-   - Change the `port` parameter in line 101 of `main.py`
+  Change the `port` parameter in line 101 of `main.py`
 
      ```python
      app.run(host="0.0.0.0", debug=False, port=your_desired_port)
@@ -64,9 +64,9 @@
 
 5. **Modify hotkeys**:
 
-   - Start Kugou Music and go to settings, then hotkey settings.
-   - Enable global hotkeys in `Hotkey Settings`.
-   - Modify the hotkeys according to the image provided.
+   Start Kugou Music and go to settings, then hotkey settings.
+   Enable global hotkeys in `Hotkey Settings`.
+   Modify the hotkeys according to the image provided.
 
    ![Hotkey Settings](https://raw.githubusercontent.com/windows99-hue/99KugouMuzicController/refs/heads/main/hotkey.png)
 

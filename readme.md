@@ -74,7 +74,7 @@ start "" pythonw -u "<your path of main.py>"
 
 #### 4.安装apk文件
 
-将```99KugouMusicController.apk`安装到终端即可
+将```99KugouMusicController.apk`安装到运行着Android操作系统的电子设备上即可
 
 --------------
 
