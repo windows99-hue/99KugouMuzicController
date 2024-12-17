@@ -10,6 +10,8 @@
 
 [Video](https://github.com/windows99-hue/99KugouMuzicController/blob/main/video.mp4)
 
+[BiliBili]( https://b23.tv/9TIvBpT)
+
 ## 部署
 
 #### 请使用python3部署此程序1.下载存储库，安装所需要的库

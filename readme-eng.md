@@ -10,6 +10,8 @@
 
 [Video](https://github.com/windows99-hue/99KugouMuzicController/blob/main/video.mp4)
 
+[BiliBili]( https://b23.tv/9TIvBpT)
+
 ## Deployment
 
 #### Please deploy this program using Python 3.
